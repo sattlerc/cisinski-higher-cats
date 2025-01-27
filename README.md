@@ -60,7 +60,10 @@ You need to ask your examiner to agree to this (you can tell them the above info
 ### Current schedule (study period 3)
 
 According to [the poll](https://choodle.portal.chalmers.se/wQwxYBNLpILpF4sk), **Thursday** at **13:15–15** is a good meeting time in study period 3.
-We have booked **EDIT 8103** for **2025-01-29** and **EDIT 6128** for all other weeks.
+Room booking:
+
+* **2025-01-29** in **EDIT 8103**,
+* all other weeks: **EDIT 6128**.
 
 ### Previous schedule
 
