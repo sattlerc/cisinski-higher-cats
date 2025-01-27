@@ -57,13 +57,25 @@ You need to ask your examiner to agree to this (you can tell them the above info
 
 ## Schedule
 
-According to [the poll](https://choodle.portal.chalmers.se/YYcmkyIJv4Oa2cf4), Monday afternoon is a good meeting time.
+### Current schedule (study period 3)
 
-The first meeting (mainly organizational) took place on **2024-09-30** at **14–16** in **EDIT 8103**.
+According to [the poll](https://choodle.portal.chalmers.se/wQwxYBNLpILpF4sk), **Thursday** at **13:15–15** is a good meeting time in study period 3.
+We have booked **EDIT 8103** for **2025-01-29** and **EDIT 6128** for all other weeks.
 
-The next two meetings are:
+### Previous schedule
+
+Previous meetings:
+
+* **2024-09-30** at **14–16** in **EDIT 8103** (mainly organizational),
 * **2024-10-07** at **15–17** in **EDIT ED**,
 * **2024-10-14** at **15–17** in **EDIT ED**.
+* **2024-10-21** at **15–17**,
+* **2024-11-04** at **14–16** in **EDIT 3364**,
+* **2024-11-11** at **15–17** in **EDIT 6128**,
+* **2024-11-19** at **15–17**,
+* **2024-11-25** at **14–16** in **EDIT 8103**,
+* **2024-12-02** at **14–16** in **EDIT 8103**,
+* **2024-12-09** at **14–16** in **EDIT 6128**.
 
 ## Literature
 
